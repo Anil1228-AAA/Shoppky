@@ -1,1 +1,3 @@
 # Shoppky
+
+Tech Blog Website.
